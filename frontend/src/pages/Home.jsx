@@ -26,7 +26,7 @@ const Home = () => {
                     </div>
                     <h1>Travel more just not to explore but to make <span className='highlight'>memories</span></h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, consectetur ipsam? Quos, sequi temporibus fugit quas veritatis odit ipsa neque soluta expedita sunt aspernatur ea officia doloremque voluptates vel inventor.
+                        Text adedes ipsum dolor sit amet, consectetur adipisicing elit. Id, consectetur ipsam? Quos, sequi temporibus fugit quas veritatis odit ipsa neque soluta expedita sunt aspernatur ea officia doloremque voluptates vel inventor.
                     </p>
                     
                 </div>
