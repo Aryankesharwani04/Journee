@@ -45,9 +45,9 @@ app.use('/api/v1/booking', bookingRoute)
 
 
 
+export default app;
 
-
-app.listen(port, ()=>{
-    connect()
-    console.log("Server listening on port",port);
-})
+// app.listen(port, ()=>{
+//     connect()
+//     console.log("Server listening on port",port);
+// })
